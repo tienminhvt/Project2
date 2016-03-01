@@ -1,0 +1,16 @@
+c:\users\tienm\documents\visual studio 2013\Projects\Bán Hàng\Bán Hàng\bin\Debug\Bán Hàng.exe.config
+c:\users\tienm\documents\visual studio 2013\Projects\Bán Hàng\Bán Hàng\bin\Debug\Bán Hàng.exe
+c:\users\tienm\documents\visual studio 2013\Projects\Bán Hàng\Bán Hàng\bin\Debug\Bán Hàng.pdb
+c:\users\tienm\documents\visual studio 2013\Projects\Bán Hàng\Bán Hàng\bin\Debug\Bán Hàng.xml
+c:\users\tienm\documents\visual studio 2013\Projects\Bán Hàng\Bán Hàng\obj\Debug\Bán_Hàng.frmAddMember.resources
+c:\users\tienm\documents\visual studio 2013\Projects\Bán Hàng\Bán Hàng\obj\Debug\Bán_Hàng.frmDangNhap.resources
+c:\users\tienm\documents\visual studio 2013\Projects\Bán Hàng\Bán Hàng\obj\Debug\Bán_Hàng.frmHoaDon.resources
+c:\users\tienm\documents\visual studio 2013\Projects\Bán Hàng\Bán Hàng\obj\Debug\Bán_Hàng.frmKhachHang.resources
+c:\users\tienm\documents\visual studio 2013\Projects\Bán Hàng\Bán Hàng\obj\Debug\Bán_Hàng.frmPanel.resources
+c:\users\tienm\documents\visual studio 2013\Projects\Bán Hàng\Bán Hàng\obj\Debug\Bán_Hàng.frmSanPham.resources
+c:\users\tienm\documents\visual studio 2013\Projects\Bán Hàng\Bán Hàng\obj\Debug\Bán_Hàng.frmthemHoadon.resources
+c:\users\tienm\documents\visual studio 2013\Projects\Bán Hàng\Bán Hàng\obj\Debug\Bán_Hàng.Resources.resources
+c:\users\tienm\documents\visual studio 2013\Projects\Bán Hàng\Bán Hàng\obj\Debug\Bán Hàng.vbproj.GenerateResource.Cache
+c:\users\tienm\documents\visual studio 2013\Projects\Bán Hàng\Bán Hàng\obj\Debug\Bán Hàng.exe
+c:\users\tienm\documents\visual studio 2013\Projects\Bán Hàng\Bán Hàng\obj\Debug\Bán Hàng.xml
+c:\users\tienm\documents\visual studio 2013\Projects\Bán Hàng\Bán Hàng\obj\Debug\Bán Hàng.pdb
